@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . ;git commit -m "adding/modifying file(s) $(ls -t | head -n1)"; git push
+git add . ;git commit -m "Adding/Modifying file(s) \"$(ls -t | head -n1)\"";git push
